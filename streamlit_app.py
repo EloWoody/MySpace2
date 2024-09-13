@@ -1,7 +1,9 @@
 import streamlit as st
 
 # Titre de l'application
-st.title("Dashboard des Accidents de Voiture")
+st.title("##Guide de Gestion des Environnements Python avec venv")
+
+
 
 import pandas as pd
 import numpy as np
